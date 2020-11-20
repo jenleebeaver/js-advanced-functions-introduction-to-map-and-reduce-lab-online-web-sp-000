@@ -29,4 +29,7 @@ function mapToDouble(src) {
 //4.
 function mapToSquare(src){
   let r = []
+  for (let i = 0; i < src.length; i++){
+    
+  }
 }
