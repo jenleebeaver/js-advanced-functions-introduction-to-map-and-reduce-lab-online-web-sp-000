@@ -46,4 +46,6 @@ function reduceToTotal(src, startingPoint = 0){
 }
 
 //6.
-function reduceToAllTrue
+function reduceToAllTrue(src) {
+  
+}
