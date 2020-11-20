@@ -32,4 +32,5 @@ function mapToSquare(src){
   for (let i = 0; i < src.length; i++){
     r.push(src[i]^2)
   }
+  return r
 }
