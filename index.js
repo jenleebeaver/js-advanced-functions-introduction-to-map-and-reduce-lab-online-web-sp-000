@@ -18,7 +18,7 @@ function mapToNoChange(src) {
 }
 
 //3.
-function mapToNoChange(src) {
+function mapToDouble(src) {
   let r = []
   for (let i = 0; i < src.length; i++){
     r.push(src[i])
