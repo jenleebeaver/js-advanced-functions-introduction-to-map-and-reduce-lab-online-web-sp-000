@@ -16,3 +16,12 @@ function mapToNoChange(src) {
   }
   return r
 }
+
+//3.
+function mapToNoChange(src) {
+  let r = []
+  for (let i = 0; i < src.length; i++){
+    r.push(src[i])
+  }
+  return r
+}
