@@ -44,3 +44,6 @@ function reduceToTotal(src, startingPoint = 0){
   }
   return total
 }
+
+//6. 
+function reduc
