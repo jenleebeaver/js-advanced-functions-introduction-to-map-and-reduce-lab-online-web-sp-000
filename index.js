@@ -40,6 +40,7 @@ function mapToSquare(src){
 function reduceToTotal(src, startingPoint = 0){
   let total = startingPoint
   for (let i = 0; i < src.length; i++){
-    return total = total + startingPoint
+    total = total + src[i]
   }
+  return total
 }
