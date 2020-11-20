@@ -37,3 +37,6 @@ function mapToSquare(src){
 }
 
 //5.
+function reduceToTotal(src){
+  
+}
