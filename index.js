@@ -27,3 +27,4 @@ function mapToDouble(src) {
 }
 
 //4.
+function mapToSquare
