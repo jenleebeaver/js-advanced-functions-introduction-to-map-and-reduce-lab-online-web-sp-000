@@ -9,3 +9,10 @@ function mapToNegativize(src) {
 }
 
 //2.
+function mapToNoChange(src) {
+  let r = []
+  for (let i = 0; i < src.length; i++){
+    r.push(-1 * src[i])
+  }
+  return r
+}
