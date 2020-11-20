@@ -27,4 +27,6 @@ function mapToDouble(src) {
 }
 
 //4.
-function mapToSquare
+function mapToSquare(src){
+  let r = []
+}
