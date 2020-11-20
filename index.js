@@ -52,3 +52,8 @@ function reduceToAllTrue(src) {
   }
   return true
 }
+
+//7.
+function reduceToAnyTrue(src) {
+  
+}
