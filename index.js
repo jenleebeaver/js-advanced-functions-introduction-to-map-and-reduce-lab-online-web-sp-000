@@ -38,7 +38,7 @@ function mapToSquare(src){
 
 //5.
 function reduceToTotal(src, startingPoint = 0){
-  let r = []
+  let total = startingPoint
   for (let i = 0; i < src.length; i++){
 
   }
